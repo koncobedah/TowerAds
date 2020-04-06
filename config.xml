@@ -21,9 +21,9 @@
 	<preference name="deployment-target" value="8.0" />
 	<preference name="android-minSdkVersion" value="16" />
 	<plugin name="cordova-plugin-crosswalk-webview" source="npm" />
-
+<!-- 
 	<plugin name="cordova-plugin-whitelist" source="npm" />
-	<access origin="*" />
+	<access origin="*" /> -->
 	
 	<plugin name ="cordova-plugin-ad-admob" spec="1.0.112" />
 	<variable name="ADMOB_APP_ID" value="ca-app-pub-6884195701790737~1162273080" />
